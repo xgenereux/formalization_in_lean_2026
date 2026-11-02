@@ -1,1 +1,2 @@
 import FiL2026.Homework1_Logic
+import FiL2026.Homework2_Arithmetic
